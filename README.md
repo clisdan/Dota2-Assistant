@@ -1,3 +1,7 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/421a0538-7c81-4cd6-9c33-890716d26acb" />
+ 
+ 
+ 
 🔹 App Overview 🔹
  
 This app tracks Dota 2 in-game time and provides stack, rune, wisdom, and tormentor reminders using Game State Integration and reminds you while ingame.
