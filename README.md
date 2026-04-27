@@ -15,6 +15,10 @@ Lightweight overlay / no HUD version
 🔹 Screenshot🔹
  
 You can enable/disable the features from the control panel as per needs of the user
+
+
+
+   
 <img width="195" height="203" alt="image" src="https://github.com/user-attachments/assets/73f7c717-9f05-48c0-bae3-d83efaf8ef82" />
   
   
