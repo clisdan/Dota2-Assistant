@@ -1,21 +1,27 @@
-🔹 App Overview
+🔹 App Overview 🔹
+ 
 This app tracks Dota 2 in-game time and provides stack, rune, wisdom, and tormentor reminders using Game State Integration.
 This is all made with Chatgpt. I have 0 coding knowledge and just prompt this the whole day.
 
-🔹 Features
+  
+🔹 Features 🔹
+ 
 Stack reminders (xx:43 prepare, xx:45 stack)
 Wisdom rune alerts
 Tormentor preparation alerts
 Pause-safe timing (GSI-based)
 Lightweight overlay / no HUD version
 
-🔹 Screenshot
+🔹 Screenshot🔹
+ 
 You can enable/disable the features from the control panel as per needs of the user
 <img width="195" height="203" alt="image" src="https://github.com/user-attachments/assets/73f7c717-9f05-48c0-bae3-d83efaf8ef82" />
+  
+  
+  
+🔹 Installation Guide 🔹
 
-
-🔹 Installation Guide (make it EASY)
-
+  
 1. Download the .exe from Releases
 2. Add Game State Integration file to:
    Steam\steamapps\common\dota 2 beta\game\dota\cfg\gamestate_integration\
