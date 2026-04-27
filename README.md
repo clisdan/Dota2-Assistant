@@ -10,7 +10,7 @@ This app tracks Dota 2 in-game time and provides stack, rune, wisdom, and tormen
   
 🔹 Features 🔹
  
-Stack reminders (xx:43 prepare, xx:45 stack)
+Stack reminders (xx:43 prepare, xx:51 stack)
 Wisdom rune alerts
 Tormentor preparation alerts
 Pause-safe timing (GSI-based)
