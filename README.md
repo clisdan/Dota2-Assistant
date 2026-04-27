@@ -24,9 +24,9 @@ You can enable/disable the features from the control panel as per needs of the u
   
   
 🔹 Installation Guide 🔹
-
+ 
   
-1. Download the .exe from Releases
+1. Download the .exe from Releases or from https://github.com/clisdan/Dota2-Assistant/releases/tag/Tools
 2. Add Game State Integration file to:
    Steam\steamapps\common\dota 2 beta\game\dota\cfg\gamestate_integration\
 3. Add launch option:
