@@ -31,7 +31,8 @@ You can enable/disable the features from the control panel as per needs of the u
    Steam\steamapps\common\dota 2 beta\game\dota\cfg\gamestate_integration\
 3. Add launch option:
    -gamestateintegration
-4. Run the app
+4. Run the Dota2Assistant.exe
+5. Run Dota 2
 
 
 
