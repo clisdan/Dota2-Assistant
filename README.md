@@ -37,6 +37,9 @@ You can enable/disable the features from the control panel as per needs of the u
    -gamestateintegration
 4. Run the Dota2Assistant.exe
 5. Run Dota 2
+6. Select a live game in the watch tab to test, watchout for key timings like stack, pull, wisdom or tormentor.
+7. If it works then it works in ranked game too.
+
 
 
 
