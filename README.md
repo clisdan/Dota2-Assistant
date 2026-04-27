@@ -1,7 +1,7 @@
 🔹 App Overview 🔹
  
-This app tracks Dota 2 in-game time and provides stack, rune, wisdom, and tormentor reminders using Game State Integration.
-This is all made with Chatgpt. I have 0 coding knowledge and just prompt this the whole day.
+This app tracks Dota 2 in-game time and provides stack, rune, wisdom, and tormentor reminders using Game State Integration and reminds you while ingame.
+
 
   
 🔹 Features 🔹
