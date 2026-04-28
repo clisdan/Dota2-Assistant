@@ -33,7 +33,7 @@ You can enable/disable the features from the control panel as per needs of the u
 1. Download the .exe from Releases or from https://github.com/clisdan/Dota2-Assistant/releases/download/update/Dota2Assistant.zip
 2. Add Game State Integration file to:
    Steam\steamapps\common\dota 2 beta\game\dota\cfg\gamestate_integration\
-3. Add launch option:
+3. Open Steam > rightclick Dota 2 > properties > add launch option:
    -gamestateintegration
 4. Run the Dota2Assistant.exe
 5. Run Dota 2
