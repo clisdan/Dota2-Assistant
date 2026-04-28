@@ -1,3 +1,9 @@
+<img width="968" height="712" alt="d2ahowitworks" src="https://github.com/user-attachments/assets/6f83f593-9030-452f-ab70-cf8fb51dfc94" />
+.
+.
+.
+.
+.
 <img width="893" height="708" alt="d2aarchitecture" src="https://github.com/user-attachments/assets/da289242-6e7c-4b28-8c65-73551e22113d" />
 .
 .
