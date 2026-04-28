@@ -46,22 +46,18 @@ You can enable/disable the features from the control panel as per needs of the u
 1. Download the .exe from Releases or from https://github.com/clisdan/Dota2-Assistant/releases/download/update/Dota2Assistant.zip
 2. Add Game State Integration file to:
    Steam\steamapps\common\dota 2 beta\game\dota\cfg\gamestate_integration\
-   .
-   .
-   .
-   .
-   .
+
    <img width="1373" height="304" alt="gamestate_integration_stack cfg folder" src="https://github.com/user-attachments/assets/c8c7d886-f277-4b05-819d-c0e1fcdea55c" />
-.
-.
-.
-.
+
 4. Open Steam > rightclick Dota 2 > properties > add launch option:
    -gamestateintegration
-5. Run the Dota2Assistant.exe
-6. Run Dota 2
-7. Select a live game in the watch tab to test, watchout for key timings like stack, pull, wisdom or tormentor.
-8. If it works then it works in ranked game too.
+
+   <img width="833" height="469" alt="dota2steam -launch options" src="https://github.com/user-attachments/assets/177d6edb-c8f2-4ec2-aeb2-9c5c9d3774d6" />
+
+6. Run the Dota2Assistant.exe
+7. Run Dota 2
+8. Select a live game in the watch tab to test, watchout for key timings like stack, pull, wisdom or tormentor.
+9. If it works then it works in ranked game too.
 
 
 
